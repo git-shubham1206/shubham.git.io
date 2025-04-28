@@ -1,0 +1,1075 @@
+  * {
+      padding: 0px;
+      margin: 0px;
+  }
+  
+  p {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+  }
+  
+  .navbar {
+      height: 825px;
+      width: 20%;
+      background-color: black;
+      float: left;
+      position: fixed;
+  }
+  
+  .profile {
+      height: 132px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      float: left;
+      margin-bottom: 15px;
+  }
+  
+  .photo {
+      height: 105px;
+      width: 40%;
+      border-radius: 50%;
+      margin-top: 10px;
+      border: 7px solid grey;
+      float: left;
+      align-content: center;
+  }
+  
+  .name {
+      color: white;
+      text-align: center;
+      font-weight: 900;
+  }
+  
+  .icon {
+      height: 30px;
+      width: 30px;
+      border-radius: 50px;
+      background-color: gray;
+      color: white;
+      align-content: center;
+      text-align: center;
+      margin-left: 22px;
+      float: left;
+  }
+  
+  .home {
+      height: 50px;
+      width: 90%;
+      float: left;
+      background-color: black;
+      color: white;
+      margin-top: 16px;
+      margin-left: 20px;
+      font-size: large;
+  }
+  
+  .homee {
+      height: 50px;
+      width: 90%;
+      float: left;
+      background-color: black;
+      color: white;
+      margin-top: 50px;
+      margin-left: 20px;
+      font-size: large;
+  }
+  
+  .spart {
+      height: 825px;
+      width: 80%;
+      background-image: url(smith.jpg);
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      margin-left: 20%;
+      align-content: center;
+      align-items: center;
+  }
+  
+  .person {
+      height: 550px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: white;
+      margin-left: 20%;
+      margin-top: 80px;
+  }
+  
+  .namee {
+      color: white;
+      font-size: 50px;
+      margin-left: 10px;
+  }
+  
+  .namee2 {
+      color: white;
+      margin-left: 10px;
+  }
+  
+  .alex {
+      margin-left: 20px;
+      margin-top: 50px;
+      float: left;
+  }
+  
+  .info {
+      height: 200px;
+      width: 750px;
+      background-color: white;
+      float: left;
+      margin-left: 20px;
+      margin-top: 50px;
+  }
+  
+  .about {
+      margin-left: 10px;
+  }
+  
+  .box1 {
+      height: 180px;
+      width: 50%;
+      background-color: white;
+      float: left;
+      font-size: 14px;
+  }
+  
+  .box2 {
+      height: 180px;
+      width: 50%;
+      background-color: white;
+      float: left;
+      font-size: 14px;
+  }
+  
+  .numbers {
+      height: 300px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: white;
+      float: left;
+  }
+  
+  .num1 {
+      height: 300px;
+      width: 25%;
+      background-color: white;
+      float: left;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .num2 {
+      height: 300px;
+      width: 25%;
+      background-color: white;
+      float: left;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .num3 {
+      height: 300px;
+      width: 25%;
+      background-color: white;
+      float: left;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .num4 {
+      height: 300px;
+      width: 25%;
+      background-color: white;
+      float: left;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .progress {
+      height: 800px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: rgb(235, 253, 255);
+  }
+  
+  progress {
+      width: 98%;
+      background-color: rgb(235, 253, 255);
+  }
+  
+  .prog {
+      text-align: left;
+  }
+  
+  .prog2 {
+      text-align: right;
+  }
+  
+  .skill {
+      height: 130px;
+      width: 100%;
+      background-color: white;
+      align-content: center;
+      color: black;
+      letter-spacing: 3px;
+      margin-left: 10px;
+  }
+  
+  .range {
+      height: 270px;
+      width: 50%;
+      float: left;
+      margin-top: 40px;
+  }
+  
+  .range2 {
+      height: 270px;
+      width: 50%;
+      float: left;
+      margin-top: 40px;
+  }
+  
+  .services {
+      height: 200px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: white;
+      margin-top: 50px;
+  }
+  
+  .summary {
+      height: 800px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: gray;
+  }
+  
+  .sum1 {
+      height: 370px;
+      width: 50%;
+      background-color: whitesmoke;
+      float: left;
+  }
+  
+  .sum2 {
+      height: 450px;
+      width: 50%;
+      background-color: whitesmoke;
+      float: left;
+  }
+  
+  .line {
+      height: 3.2%;
+      width: 2%;
+      border: 2px solid black;
+      border-radius: 50%;
+      float: left;
+      margin-top: 3px;
+      margin-right: 5px;
+  }
+  
+  .circle {
+      height: 310px;
+      /*	width: 1px;*/
+      border: 2px solid black;
+      float: left;
+      margin-top: 21px;
+      text-align: left;
+      margin-left: 6px;
+      margin-top: 0px;
+      margin-right: 2px;
+  }
+  
+  .oval {
+      height: 160px;
+      /*	width: 1px;*/
+      border: 2px solid black;
+      float: left;
+      text-align: left;
+      margin-left: 6px;
+      margin-top: -13px;
+      margin-right: 2px;
+  }
+  
+  .circlee {
+      height: 270px;
+      /*	width: 1px;*/
+      border: 2px solid black;
+      float: left;
+      margin-top: 21px;
+      text-align: left;
+      margin-left: 6px;
+      margin-top: 0px;
+      margin-right: 2px;
+  }
+  
+  .circleee {
+      height: 109px;
+      /*	width: 1px;*/
+      border: 2px solid black;
+      float: left;
+      text-align: left;
+      margin-left: -14px;
+      margin-top: 2px;
+      margin-right: 0px;
+  }
+  
+  .photos {
+      height: 1560px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: rgb(232, 253, 255);
+  }
+  
+  .bar {
+      height: 40px;
+      width: 100%;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .pics {
+      height: 300px;
+      width: 30%;
+      background-color: white;
+      float: left;
+      margin-left: 25px;
+      margin-top: 10px;
+  }
+  
+  .imag {
+      height: 300px;
+      width: 100%;
+      float: left;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+  }
+  
+  .pics2 {
+      height: 300px;
+      width: 30%;
+      background-color: white;
+      float: left;
+      margin-left: 25px;
+      margin-top: 20px;
+  }
+  
+  .servic {
+      height: 50px;
+      width: 80%;
+      margin-left: 20%;
+      margin-top: 40px;
+      background-color: white;
+  }
+  
+  .ipsum {
+      height: 130px;
+      width: 32%;
+      background-color: white;
+      float: left;
+      margin-left: 10px;
+      margin-top: 10px;
+  }
+  
+  .left {
+      margin-left: 10px;
+      margin-top: 5px;
+  }
+  
+  .p {}
+  
+  .icons {
+      height: 90px;
+      width: 80px;
+      background-color: skyblue;
+      float: left;
+      font-size: 30px;
+      border-radius: 60%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 10px;
+  }
+  
+  .test {
+      height: 670px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: rgb(232, 253, 255);
+      float: left;
+      margin-top: 10px;
+  }
+  
+  .pop {
+      height: 150px;
+      width: 340px;
+      background-color: white;
+      float: left;
+      margin-left: 40px;
+      border-radius: 5px;
+  }
+  
+  .pop2 {
+      height: 140px;
+      width: 340px;
+      background-color: white;
+      float: left;
+      margin-left: 50px;
+      border-radius: 5px;
+  }
+  
+  .pop3 {
+      height: 150px;
+      width: 340px;
+      background-color: white;
+      float: left;
+      margin-left: 50px;
+      border-radius: 5px;
+  }
+  
+  .pro {
+      height: 80px;
+      width: 80px;
+      background-color: aqua;
+      float: left;
+      margin-left: 170px;
+      margin-top: 30px;
+      background-image: url(saul.jpg);
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      border-radius: 50%;
+  }
+  
+  .pro2 {
+      height: 80px;
+      width: 80px;
+      background-color: aqua;
+      float: left;
+      margin-left: 310px;
+      margin-top: 30px;
+      background-image: url(sara.jpg);
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      border-radius: 50%;
+  }
+  
+  .pro3 {
+      height: 80px;
+      width: 80px;
+      background-color: aqua;
+      float: left;
+      margin-left: 312px;
+      margin-top: 30px;
+      background-image: url(jena.jpg);
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      border-radius: 50%;
+  }
+  
+  .saul {
+      height: 50px;
+      width: 110px;
+      background-color: whitesmoke;
+      float: left;
+      margin-left: 155px;
+      margin-top: 7px;
+      line-height: 20px;
+      text-align: center;
+  }
+  
+  .sara {
+      height: 50px;
+      width: 110px;
+      background-color: whitesmoke;
+      float: left;
+      margin-left: 280px;
+      margin-top: 7px;
+      line-height: 20px;
+      text-align: center;
+  }
+  
+  .jena {
+      height: 50px;
+      width: 110px;
+      background-color: whitesmoke;
+      float: left;
+      margin-left: 285px;
+      margin-top: 7px;
+      line-height: 20px;
+      text-align: center;
+  }
+  
+  .dot {
+      height: 50px;
+      width: 100%;
+      background-color: inherit;
+      float: left;
+      text-align: center;
+      margin-top: 60px;
+  }
+  
+  .contact {
+      height: 850px;
+      width: 80%;
+      margin-left: 20%;
+      float: left;
+      background-color: white;
+  }
+  
+  .map {
+      height: 600px;
+      width: 40%;
+      background-color: whitesmoke;
+      float: left;
+      margin-left: 25px;
+  }
+  
+  .add {
+      height: 70px;
+      width: 100%;
+      background-color: whitesmoke;
+      float: left;
+  }
+  
+  .call {
+      height: 70px;
+      width: 100%;
+      background-color: whitesmoke;
+      float: left;
+  }
+  
+  .email {
+      height: 70px;
+      width: 100%;
+      background-color: whitesmoke;
+      float: left;
+  }
+  
+  .fa {
+      margin-left: 35px;
+      font-size: 22px;
+      margin-top: 19px;
+      float: left;
+  }
+  
+  .adam {
+      float: left;
+      margin-left: 15px;
+      margin-top: 10px;
+  }
+  
+  .us {
+      float: left;
+      font-size: 12px;
+      margin-top: 7px;
+      margin-left: 15px;
+  }
+  
+  iframe {
+      height: 360px;
+      width: 90%;
+      margin-top: 15px;
+      margin-left: 23px;
+  }
+  
+  .req {
+      float: left;
+      height: 600px;
+      width: 55%;
+      background-color: whitesmoke;
+      margin-left: 20px;
+  }
+  
+  .your {
+      height: 50px;
+      width: 48%;
+      float: left;
+      margin-left: 13px;
+      margin-top: 30px;
+  }
+  
+  .input1 {
+      height: 35px;
+      width: 90%;
+      margin-top: 10px;
+  }
+  
+  .sub {
+      height: 50px;
+      width: 98%;
+      float: left;
+      margin-top: 40px;
+      margin-left: 13px;
+  }
+  
+  .input2 {
+      height: 35px;
+      width: 95%;
+      margin-top: 10px;
+  }
+  
+  .mess {
+      float: left;
+      height: 230px;
+      width: 95%;
+      margin-left: 13px;
+      margin-top: 50px;
+  }
+  
+  .input3 {
+      height: 270px;
+      width: 98%;
+  }
+  
+  .but {
+      height: 40px;
+      width: 200px;
+      background-color: skyblue;
+      float: left;
+      margin-top: 100px;
+      margin-left: 230px;
+      border: 0px solid red;
+      border-radius: 50px;
+      text-align: center;
+  }
+  
+  button {
+      height: 40px;
+      width: 100%;
+      background-color: inherit;
+      border-radius: 50px;
+      color: white;
+  }
+  
+  .last {
+      height: 100px;
+      width: 80%;
+      margin-left: 20%;
+      background-color: rgb(232, 253, 255);
+      float: left;
+      text-align: center;
+      word-spacing: 7px;
+      align-content: center;
+  }
+  
+  @media(max-width:650px) {
+      .navbar {
+          display: none;
+      }
+      .spart {
+          width: 100%;
+          margin-left: 0px;
+      }
+      .person {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .paragraph {
+          margin-left: 10px;
+      }
+      .alex {
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+      }
+      .info {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .box1 {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .box2 {
+          margin-left: 0px;
+          width: 100%;
+          margin-top: 10px;
+      }
+      .paragraph2 {
+          margin-left: 10px;
+      }
+      .about {
+          margin-left: 0px;
+      }
+      .numbers {
+          margin-top: 400px;
+          width: 100%;
+          margin-left: 0px;
+      }
+      .paragraph3 {
+          line-height: 30px;
+          text-align: left;
+          background-color: white;
+          margin-top: 50px;
+          margin-left: 10px;
+      }
+      .num1 {
+          margin-left: 0px;
+          width: 100%;
+          text-align: left;
+          margin-left: 50px;
+          height: 150px;
+          margin-top: 100px;
+      }
+      .num2 {
+          margin-left: 0px;
+          width: 100%;
+          text-align: left;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .num3 {
+          margin-left: 0px;
+          width: 100%;
+          text-align: left;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .num4 {
+          margin-left: 0px;
+          width: 100%;
+          text-align: left;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .progress {
+          height: 850px;
+          margin-top: 1500px;
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+      }
+      .range {
+          width: 100%;
+      }
+      .range2 {
+          width: 100%;
+      }
+      .services {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .summary {
+          height: 800px;
+          margin-left: 0px;
+          width: 100%;
+      }
+      .sum1 {
+          background-color: white;
+      }
+      .sum2 {
+          height: 450px;
+          background-color: white;
+      }
+      .photos {
+          height: 4200px;
+          margin-left: 0px;
+          margin-top: 1000px;
+          width: 100%;
+          margin-bottom: 50px;
+      }
+      .pics {
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+      }
+      .pics2 {
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+          margin-top: 20px;
+      }
+      .sum1 {
+          width: 100%;
+      }
+      .sum2 {
+          width: 100%;
+      }
+      .servic {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .ipsum {
+          margin-left: 0px;
+          width: 90%;
+          margin-left: 10%;
+      }
+      .test {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .pop {
+          align-content: center;
+          width: 80%;
+          margin-left: 10%;
+      }
+      .pop2 {
+          display: none;
+      }
+      .pop3 {
+          display: none;
+      }
+      .pro {
+          margin-left: 160px;
+      }
+      .pro2 {
+          display: none;
+      }
+      .pro3 {
+          display: none;
+      }
+      .sara {
+          display: none;
+      }
+      .jena {
+          display: none;
+      }
+      .saul {
+          display: none;
+      }
+      .contact {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .map {
+          margin-left: 0px;
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+      }
+      .req {
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+          height: 680px;
+      }
+      .last {
+          margin-left: 0px;
+          width: 100%;
+          margin-top: 670px;
+      }
+      .but {
+          margin-left: 100px;
+      }
+      .your {
+          width: 100%;
+      }
+  }
+  
+  @media(min-width:651px) and (max-width:950px) {
+      .navbar {
+          display: none;
+      }
+      .spart {
+          width: 100%;
+          margin-left: 0px;
+      }
+      .person {
+          margin-left: 0px;
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+          height: auto;
+      }
+      .paragraph {
+          margin-left: 10px;
+      }
+      .alex {
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+      }
+      .info {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .box1 {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .box2 {
+          margin-left: 0px;
+          width: 100%;
+          margin-top: 10px;
+      }
+      .paragraph2 {
+          margin-left: 10px;
+      }
+      .about {
+          margin-left: 0px;
+      }
+      .information {
+          height: 1300px;
+          width: 100%;
+      }
+      .numbers {
+          margin-top: 0px;
+          width: 100%;
+          margin-left: 0px;
+          margin-top: 100px;
+      }
+      .paragraph3 {
+          line-height: 30px;
+          text-align: left;
+          background-color: white;
+          margin-top: 50px;
+          margin-left: 10px;
+      }
+      .num1 {
+          margin-left: 0px;
+          width: 40%;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .num2 {
+          margin-left: 0px;
+          width: 40%;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .num3 {
+          margin-left: 0px;
+          width: 40%;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .num4 {
+          margin-left: 0px;
+          width: 40%;
+          margin-left: 50px;
+          height: 150px;
+      }
+      .progress {
+          height: 850px;
+          margin-top: 0px;
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+      }
+      .range {
+          width: 100%;
+      }
+      .range2 {
+          width: 100%;
+      }
+      .services {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .summary {
+          height: 800px;
+          margin-left: 0px;
+          margin-top: 250px;
+          width: 100%;
+      }
+      .sum1 {
+          background-color: white;
+      }
+      .sum2 {
+          height: 450px;
+          background-color: white;
+      }
+      .photos {
+          height: 2400px;
+          margin-left: 0px;
+          margin-top: 600px;
+          width: 100%;
+          margin-bottom: 50px;
+      }
+      .pics {
+          width: 40%;
+          margin-left: 5%;
+          margin-right: 5%;
+          float: left;
+      }
+      .pics2 {
+          width: 40%;
+          margin-left: 5%;
+          margin-right: 5%;
+          margin-top: 20px;
+      }
+      .sum1 {
+          width: 100%;
+      }
+      .sum2 {
+          width: 100%;
+      }
+      .servic {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .ipsum {
+          margin-left: 0px;
+          width: 40%;
+          margin-left: 5%;
+          margin-right: 5%;
+          margin-top: 50px;
+          text-align: right;
+      }
+      .test {
+          margin-left: 0px;
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+          margin-top: 50px;
+          align-content: center;
+          align-items: center;
+      }
+      .pop {
+          align-content: center;
+          width: 80%;
+          margin-left: 10%;
+      }
+      .pop2 {
+          display: none;
+      }
+      .pop3 {
+          display: none;
+      }
+      .pro {
+          margin-left: 300px;
+      }
+      .pro2 {
+          display: none;
+      }
+      .pro3 {
+          display: none;
+      }
+      .sara {
+          display: none;
+      }
+      .jena {
+          display: none;
+      }
+      .saul {
+          display: none;
+      }
+      .contact {
+          margin-left: 0px;
+          width: 100%;
+      }
+      .map {
+          margin-left: 0px;
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+      }
+      .req {
+          width: 90%;
+          margin-left: 5%;
+          margin-right: 5%;
+          height: 680px;
+      }
+      .last {
+          margin-left: 0px;
+          width: 100%;
+          margin-top: 670px;
+      }
+      .but {
+          margin-left: 270px;
+      }
+      .your {
+          width: 100%;
+      }
+  }
